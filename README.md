@@ -25,6 +25,6 @@
 <h2 align="center"></h2>
 
 <p><img align="left" height="195"  src="https://github-readme-stats.vercel.app/api/top-langs?username=himanshuraj-in&show_icons=true&locale=en&layout=compact" alt="himanshuraj-in" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuraj-in&" alt="himanshuraj-in" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshuraj-in&" alt="himanshuraj-in" /></p>
 
 
